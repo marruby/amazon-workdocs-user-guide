@@ -28,7 +28,7 @@ You can add overall feedback that applies to the entire file, or add feedback on
 
 1. Select the portion of the file on which to give feedback, and enter your feedback\.
 
-1. After you enter your feedback, choose **Post** to save your feedback as a draft\. You can edit or delete any of your feedback by choosing **Feedback**\.
+1. After you enter your feedback, choose **Post** to save your feedback as a draft\. You can edit or delete any of your feedback by choosing **Feedback**\. Feedback will be posted once you click **Publish**\.
 
 **To reply to feedback**
 
